@@ -1,0 +1,120 @@
+Added Component: Designator=TP293(TP_0P8MM)
+Added Component: Designator=TP294(TP_0P8MM)
+Added Component: Designator=TP295(TP_0P8MM)
+Added Component: Designator=TP296(TP_0P8MM)
+Added Component: Designator=TP297(TP_0P8MM)
+Added Component: Designator=TP298(TP_0P8MM)
+Added Component: Designator=TP299(TP_0P8MM)
+Added Component: Designator=TP300(TP_0P8MM)
+Added Component: Designator=TP301(TP_0P8MM)
+Added Component: Designator=TP302(TP_0P8MM)
+Added Component: Designator=TP303(TP_0P8MM)
+Added Component: Designator=TP304(TP_0P8MM)
+Added Component: Designator=TP305(TP_0P8MM)
+Added Component: Designator=TP306(TP_0P8MM)
+Added Component: Designator=TP307(TP_0P8MM)
+Added Component: Designator=TP308(TP_0P8MM)
+Added Component: Designator=TP309(TP_0P8MM)
+Added Component: Designator=TP310(TP_0P8MM)
+Added Component: Designator=TP311(TP_0P8MM)
+Added Component: Designator=TP312(TP_0P8MM)
+Added Component: Designator=TP313(TP_0P8MM)
+Added Component: Designator=TP314(TP_0P8MM)
+Added Component: Designator=TP315(TP_0P8MM)
+Added Component: Designator=TP316(TP_0P8MM)
+Added Pin To Net: NetName=NC48 Pin=TP293-1
+Added Net: Name=NC48
+Added Pin To Net: NetName=NC49 Pin=TP294-1
+Added Net: Name=NC49
+Added Pin To Net: NetName=NC50 Pin=TP295-1
+Added Net: Name=NC50
+Added Pin To Net: NetName=NC51 Pin=TP296-1
+Added Net: Name=NC51
+Added Pin To Net: NetName=NC52 Pin=TP297-1
+Added Net: Name=NC52
+Added Pin To Net: NetName=NC53 Pin=TP298-1
+Added Net: Name=NC53
+Added Pin To Net: NetName=NC54 Pin=TP299-1
+Added Net: Name=NC54
+Added Pin To Net: NetName=NC55 Pin=TP300-1
+Added Net: Name=NC55
+Added Pin To Net: NetName=NC56 Pin=TP301-1
+Added Net: Name=NC56
+Added Pin To Net: NetName=NC57 Pin=TP302-1
+Added Net: Name=NC57
+Added Pin To Net: NetName=NC58 Pin=TP303-1
+Added Net: Name=NC58
+Added Pin To Net: NetName=NC59 Pin=TP304-1
+Added Net: Name=NC59
+Added Pin To Net: NetName=NC60 Pin=TP305-1
+Added Net: Name=NC60
+Added Pin To Net: NetName=NC61 Pin=TP306-1
+Added Net: Name=NC61
+Added Pin To Net: NetName=NC62 Pin=TP307-1
+Added Net: Name=NC62
+Added Pin To Net: NetName=NC63 Pin=TP308-1
+Added Net: Name=NC63
+Added Pin To Net: NetName=NC64 Pin=TP309-1
+Added Net: Name=NC64
+Added Pin To Net: NetName=NC65 Pin=TP310-1
+Added Net: Name=NC65
+Added Pin To Net: NetName=NC66 Pin=TP311-1
+Added Net: Name=NC66
+Added Pin To Net: NetName=NC67 Pin=TP312-1
+Added Net: Name=NC67
+Added Pin To Net: NetName=NC68 Pin=TP313-1
+Added Net: Name=NC68
+Added Pin To Net: NetName=NC69 Pin=TP314-1
+Added Net: Name=NC69
+Added Pin To Net: NetName=NC70 Pin=TP315-1
+Added Net: Name=NC70
+Added Pin To Net: NetName=NC71 Pin=TP316-1
+Added Net: Name=NC71
+Added Class: Name=TP293_Nets
+Added Class: Name=TP294_Nets
+Added Class: Name=TP295_Nets
+Added Class: Name=TP296_Nets
+Added Class: Name=TP297_Nets
+Added Class: Name=TP298_Nets
+Added Class: Name=TP299_Nets
+Added Class: Name=TP300_Nets
+Added Class: Name=TP301_Nets
+Added Class: Name=TP302_Nets
+Added Class: Name=TP303_Nets
+Added Class: Name=TP304_Nets
+Added Class: Name=TP305_Nets
+Added Class: Name=TP306_Nets
+Added Class: Name=TP307_Nets
+Added Class: Name=TP308_Nets
+Added Class: Name=TP309_Nets
+Added Class: Name=TP310_Nets
+Added Class: Name=TP311_Nets
+Added Class: Name=TP312_Nets
+Added Class: Name=TP313_Nets
+Added Class: Name=TP314_Nets
+Added Class: Name=TP315_Nets
+Added Class: Name=TP316_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP293 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP294 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP295 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP296 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP297 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP298 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP299 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP300 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP301 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP302 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP303 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP304 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP305 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP306 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP307 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP308 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP309 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP310 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP311 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP312 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP313 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP314 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP315 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP316 TP_0P8MM

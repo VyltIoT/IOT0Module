@@ -1,0 +1,232 @@
+Removed Pin From Net: NetName=IO19 Pin=TP22-1
+Removed Pin From Net: NetName=IO20 Pin=TP23-1
+Removed Member From Class: ClassName=TP100_Nets Member=GND
+Removed Member From Class: ClassName=TP101_Nets Member=GND
+Removed Member From Class: ClassName=TP22_Nets Member=IO19
+Removed Member From Class: ClassName=TP23_Nets Member=IO20
+Removed Member From Class: ClassName=J1_Nets Member=NetJ1_1
+Removed Member From Class: ClassName=TP57_Nets Member=VCC_IN_5V
+Removed Member From Class: ClassName=TP60_Nets Member=VCC_IN_5V
+Removed Member From Class: ClassName=TP63_Nets Member=VCC_IN_5V
+Removed Member From Class: ClassName=TP66_Nets Member=VCC_IN_5V
+Removed Member From Class: ClassName=TP69_Nets Member=VCC_IN_5V
+Removed Member From Class: ClassName=TP72_Nets Member=VCC_IN_5V
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP79
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP80
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP81
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP82
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP83
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP84
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP85
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP86
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP87
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP88
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP89
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP90
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP91
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP92
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP93
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP94
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP95
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP96
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP97
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP98
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP99
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP100
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP101
+Change Component Designator: OldDesignator=TP24 NewDesignator=TP102
+Change Component Designator: OldDesignator=TP25 NewDesignator=TP103
+Change Component Designator: OldDesignator=TP26 NewDesignator=TP104
+Change Component Designator: OldDesignator=TP27 NewDesignator=TP105
+Change Component Designator: OldDesignator=TP28 NewDesignator=TP106
+Change Component Designator: OldDesignator=TP29 NewDesignator=TP107
+Change Component Designator: OldDesignator=TP30 NewDesignator=TP108
+Change Component Designator: OldDesignator=TP31 NewDesignator=TP109
+Change Component Designator: OldDesignator=TP32 NewDesignator=TP110
+Change Component Designator: OldDesignator=TP33 NewDesignator=TP75
+Change Component Designator: OldDesignator=TP34 NewDesignator=TP76
+Change Component Designator: OldDesignator=TP35 NewDesignator=TP77
+Change Component Designator: OldDesignator=TP36 NewDesignator=TP78
+Change Component Designator: OldDesignator=TP37 NewDesignator=TP1
+Change Component Designator: OldDesignator=TP38 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP39 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP40 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP41 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP42 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP43 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP44 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP45 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP46 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP47 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP48 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP49 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP50 NewDesignator=TP14
+Change Component Designator: OldDesignator=TP51 NewDesignator=TP15
+Change Component Designator: OldDesignator=TP52 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP53 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP54 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP55 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP56 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP57 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP58 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP59 NewDesignator=TP23
+Change Component Designator: OldDesignator=TP60 NewDesignator=TP24
+Change Component Designator: OldDesignator=TP61 NewDesignator=TP25
+Change Component Designator: OldDesignator=TP62 NewDesignator=TP26
+Change Component Designator: OldDesignator=TP63 NewDesignator=TP27
+Change Component Designator: OldDesignator=TP64 NewDesignator=TP28
+Change Component Designator: OldDesignator=TP65 NewDesignator=TP29
+Change Component Designator: OldDesignator=TP66 NewDesignator=TP30
+Change Component Designator: OldDesignator=TP67 NewDesignator=TP31
+Change Component Designator: OldDesignator=TP68 NewDesignator=TP32
+Change Component Designator: OldDesignator=TP69 NewDesignator=TP33
+Change Component Designator: OldDesignator=TP70 NewDesignator=TP34
+Change Component Designator: OldDesignator=TP71 NewDesignator=TP35
+Change Component Designator: OldDesignator=TP72 NewDesignator=TP36
+Change Component Designator: OldDesignator=TP73 NewDesignator=TP37
+Change Component Designator: OldDesignator=TP74 NewDesignator=TP38
+Change Component Designator: OldDesignator=TP75 NewDesignator=TP39
+Change Component Designator: OldDesignator=TP76 NewDesignator=TP40
+Change Component Designator: OldDesignator=TP77 NewDesignator=TP41
+Change Component Designator: OldDesignator=TP78 NewDesignator=TP42
+Change Component Designator: OldDesignator=TP79 NewDesignator=TP43
+Change Component Designator: OldDesignator=TP80 NewDesignator=TP44
+Change Component Designator: OldDesignator=TP81 NewDesignator=TP45
+Change Component Designator: OldDesignator=TP82 NewDesignator=TP46
+Change Component Designator: OldDesignator=TP83 NewDesignator=TP47
+Change Component Designator: OldDesignator=TP84 NewDesignator=TP48
+Change Component Designator: OldDesignator=TP85 NewDesignator=TP49
+Change Component Designator: OldDesignator=TP86 NewDesignator=TP50
+Change Component Designator: OldDesignator=TP87 NewDesignator=TP51
+Change Component Designator: OldDesignator=TP88 NewDesignator=TP52
+Change Component Designator: OldDesignator=TP89 NewDesignator=TP53
+Change Component Designator: OldDesignator=TP90 NewDesignator=TP54
+Change Component Designator: OldDesignator=TP91 NewDesignator=TP55
+Change Component Designator: OldDesignator=TP92 NewDesignator=TP56
+Change Component Designator: OldDesignator=TP93 NewDesignator=TP57
+Change Component Designator: OldDesignator=TP94 NewDesignator=TP58
+Change Component Designator: OldDesignator=TP95 NewDesignator=TP59
+Change Component Designator: OldDesignator=TP96 NewDesignator=TP60
+Change Component Designator: OldDesignator=TP97 NewDesignator=TP61
+Change Component Designator: OldDesignator=TP98 NewDesignator=TP62
+Change Component Designator: OldDesignator=TP99 NewDesignator=TP63
+Change Component Designator: OldDesignator=TP100 NewDesignator=TP64
+Change Component Designator: OldDesignator=TP101 NewDesignator=TP65
+Change Component Designator: OldDesignator=TP102 NewDesignator=TP66
+Change Component Designator: OldDesignator=TP103 NewDesignator=TP67
+Change Component Designator: OldDesignator=TP104 NewDesignator=TP68
+Change Component Designator: OldDesignator=TP105 NewDesignator=TP69
+Change Component Designator: OldDesignator=TP106 NewDesignator=TP70
+Change Component Designator: OldDesignator=TP107 NewDesignator=TP71
+Change Component Designator: OldDesignator=TP108 NewDesignator=TP72
+Change Component Designator: OldDesignator=TP109 NewDesignator=TP73
+Change Component Designator: OldDesignator=TP110 NewDesignator=TP74
+Added Component: Designator=R7(RESC0603X03L)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0603X03L)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=J1-1
+Added Pin To Net: NetName=IO19 Pin=R7-1
+Added Pin To Net: NetName=IO20 Pin=R8-1
+Change Net Color : Old Net Color=RGB(206, 153, 250) New Net Color=RGB(147, 204, 252)
+Change Net Color : Old Net Color=RGB(206, 153, 250) New Net Color=RGB(147, 204, 252)
+Added Pin To Net: NetName=USB_N Pin=R7-2
+Added Pin To Net: NetName=USB_N Pin=TP100-1
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=R8-2
+Added Pin To Net: NetName=USB_P Pin=TP101-1
+Added Net: Name=USB_P
+Change Class Name : Old Net Name=TP1_Nets New Net Name=TP79_Nets
+Change Class Name : Old Net Name=TP2_Nets New Net Name=TP80_Nets
+Change Class Name : Old Net Name=TP3_Nets New Net Name=TP81_Nets
+Change Class Name : Old Net Name=TP4_Nets New Net Name=TP82_Nets
+Change Class Name : Old Net Name=TP5_Nets New Net Name=TP83_Nets
+Change Class Name : Old Net Name=TP6_Nets New Net Name=TP84_Nets
+Change Class Name : Old Net Name=TP7_Nets New Net Name=TP85_Nets
+Change Class Name : Old Net Name=TP8_Nets New Net Name=TP86_Nets
+Change Class Name : Old Net Name=TP9_Nets New Net Name=TP87_Nets
+Change Class Name : Old Net Name=TP10_Nets New Net Name=TP88_Nets
+Change Class Name : Old Net Name=TP11_Nets New Net Name=TP89_Nets
+Change Class Name : Old Net Name=TP12_Nets New Net Name=TP90_Nets
+Change Class Name : Old Net Name=TP13_Nets New Net Name=TP91_Nets
+Change Class Name : Old Net Name=TP14_Nets New Net Name=TP92_Nets
+Change Class Name : Old Net Name=TP15_Nets New Net Name=TP93_Nets
+Change Class Name : Old Net Name=TP16_Nets New Net Name=TP94_Nets
+Change Class Name : Old Net Name=TP17_Nets New Net Name=TP95_Nets
+Change Class Name : Old Net Name=TP18_Nets New Net Name=TP96_Nets
+Change Class Name : Old Net Name=TP19_Nets New Net Name=TP97_Nets
+Change Class Name : Old Net Name=TP20_Nets New Net Name=TP98_Nets
+Change Class Name : Old Net Name=TP21_Nets New Net Name=TP99_Nets
+Change Class Name : Old Net Name=TP24_Nets New Net Name=TP102_Nets
+Change Class Name : Old Net Name=TP25_Nets New Net Name=TP103_Nets
+Change Class Name : Old Net Name=TP26_Nets New Net Name=TP104_Nets
+Change Class Name : Old Net Name=TP27_Nets New Net Name=TP105_Nets
+Change Class Name : Old Net Name=TP28_Nets New Net Name=TP106_Nets
+Change Class Name : Old Net Name=TP29_Nets New Net Name=TP107_Nets
+Change Class Name : Old Net Name=TP30_Nets New Net Name=TP108_Nets
+Change Class Name : Old Net Name=TP31_Nets New Net Name=TP109_Nets
+Change Class Name : Old Net Name=TP32_Nets New Net Name=TP110_Nets
+Change Class Name : Old Net Name=TP33_Nets New Net Name=TP75_Nets
+Change Class Name : Old Net Name=TP34_Nets New Net Name=TP76_Nets
+Change Class Name : Old Net Name=TP35_Nets New Net Name=TP77_Nets
+Change Class Name : Old Net Name=TP36_Nets New Net Name=TP78_Nets
+Change Class Name : Old Net Name=TP54_Nets New Net Name=TP6_Nets
+Change Class Name : Old Net Name=TP77_Nets New Net Name=TP10_Nets
+Change Class Name : Old Net Name=TP79_Nets New Net Name=TP51_Nets
+Change Class Name : Old Net Name=TP80_Nets New Net Name=TP26_Nets
+Added Class: Name=R7_Nets
+Added Class: Name=R8_Nets
+Added Class: Name=TP1_Nets
+Added Class: Name=TP2_Nets
+Added Class: Name=TP3_Nets
+Added Class: Name=TP4_Nets
+Added Class: Name=TP5_Nets
+Added Class: Name=TP7_Nets
+Added Class: Name=TP8_Nets
+Added Class: Name=TP9_Nets
+Added Class: Name=TP11_Nets
+Added Class: Name=TP12_Nets
+Added Class: Name=TP13_Nets
+Added Class: Name=TP14_Nets
+Added Class: Name=TP15_Nets
+Added Class: Name=TP16_Nets
+Added Class: Name=TP17_Nets
+Added Class: Name=TP18_Nets
+Added Class: Name=TP19_Nets
+Added Class: Name=TP20_Nets
+Added Class: Name=TP21_Nets
+Added Class: Name=TP24_Nets
+Added Class: Name=TP25_Nets
+Added Class: Name=TP27_Nets
+Added Class: Name=TP28_Nets
+Added Class: Name=TP29_Nets
+Added Class: Name=TP30_Nets
+Added Class: Name=TP31_Nets
+Added Class: Name=TP32_Nets
+Added Class: Name=TP33_Nets
+Added Class: Name=TP34_Nets
+Added Class: Name=TP35_Nets
+Added Class: Name=TP36_Nets
+Added Class: Name=TP54_Nets
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=MCU Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=MCU Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=TP22_Nets Member=Wire GND
+Added Member To Class: ClassName=TP23_Nets Member=Wire GND
+Added Member To Class: ClassName=TP57_Nets Member=Wire GND
+Added Member To Class: ClassName=TP60_Nets Member=Wire GND
+Added Member To Class: ClassName=TP63_Nets Member=Wire GND
+Added Member To Class: ClassName=TP66_Nets Member=Wire GND
+Added Member To Class: ClassName=TP69_Nets Member=Wire GND
+Added Member To Class: ClassName=TP72_Nets Member=Wire GND
+Added Member To Class: ClassName=J1_Nets Member=Wire NetC2_1
+Added Member To Class: ClassName=TP100_Nets Member=Wire USB_N
+Added Member To Class: ClassName=TP101_Nets Member=Wire USB_P

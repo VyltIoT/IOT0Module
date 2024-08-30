@@ -1,0 +1,10 @@
+Added Component: Designator=TP291(TP_0P8MM)
+Added Component: Designator=TP292(TP_0P8MM)
+Added Pin To Net: NetName=NC46 Pin=TP291-1
+Added Net: Name=NC46
+Added Pin To Net: NetName=NC47 Pin=TP292-1
+Added Net: Name=NC47
+Added Class: Name=TP291_Nets
+Added Class: Name=TP292_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP291 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP292 TP_0P8MM

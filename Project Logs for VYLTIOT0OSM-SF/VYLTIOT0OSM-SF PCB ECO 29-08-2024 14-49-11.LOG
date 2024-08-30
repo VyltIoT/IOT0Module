@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=R3_Nets Member=U0RXD
+Added Component: Designator=TP149(TP_0P8MM)
+Added Component: Designator=TP150(TP_0P8MM)
+Added Component: Designator=TP151(TP_0P8MM)
+Added Component: Designator=TP152(TP_0P8MM)
+Added Component: Designator=TP153(TP_0P8MM)
+Added Component: Designator=TP154(TP_0P8MM)
+Added Component: Designator=TP155(TP_0P8MM)
+Added Pin To Net: NetName=RSV1 Pin=TP149-1
+Added Net: Name=RSV1
+Added Pin To Net: NetName=RSV2 Pin=TP150-1
+Added Net: Name=RSV2
+Added Pin To Net: NetName=RSV3 Pin=TP151-1
+Added Net: Name=RSV3
+Added Pin To Net: NetName=RSV4 Pin=TP152-1
+Added Net: Name=RSV4
+Added Pin To Net: NetName=RSV5 Pin=TP153-1
+Added Net: Name=RSV5
+Added Pin To Net: NetName=RSV6 Pin=TP154-1
+Added Net: Name=RSV6
+Added Pin To Net: NetName=RSV7 Pin=TP155-1
+Added Net: Name=RSV7
+Added Class: Name=TP149_Nets
+Added Class: Name=TP150_Nets
+Added Class: Name=TP151_Nets
+Added Class: Name=TP152_Nets
+Added Class: Name=TP153_Nets
+Added Class: Name=TP154_Nets
+Added Class: Name=TP155_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP149 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP150 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP151 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP152 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP153 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP154 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP155 TP_0P8MM
+Added Member To Class: ClassName=R3_Nets Member=Wire U0TXD
+Added Member To Class: ClassName=U2_Nets Member=Wire U0TXD

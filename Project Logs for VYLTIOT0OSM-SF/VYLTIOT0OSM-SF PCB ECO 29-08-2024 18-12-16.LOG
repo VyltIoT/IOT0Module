@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=TP45_Nets Member=N_BOOT_SEL0
+Removed Member From Class: ClassName=TP48_Nets Member=N_BOOT_SEL1
+Added Pin To Net: NetName=IO0 Pin=TP45-1
+Added Pin To Net: NetName=IO46 Pin=TP48-1
+Added Member To Class: ClassName=TP45_Nets Member=Wire IO0
+Added Member To Class: ClassName=TP48_Nets Member=Wire IO46

@@ -1,0 +1,5 @@
+Added Component: Designator=TP168(TP_0P8MM)
+Added Pin To Net: NetName=USB_A_VBUS Pin=TP168-1
+Added Net: Name=USB_A_VBUS
+Added Class: Name=TP168_Nets
+Added Member To Class: ClassName=POWER Member=Component TP168 TP_0P8MM

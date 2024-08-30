@@ -1,0 +1,35 @@
+Added Component: Designator=TP322(TP_0P8MM)
+Added Component: Designator=TP323(TP_0P8MM)
+Added Component: Designator=TP324(TP_0P8MM)
+Added Component: Designator=TP325(TP_0P8MM)
+Added Component: Designator=TP326(TP_0P8MM)
+Added Component: Designator=TP327(TP_0P8MM)
+Added Component: Designator=TP328(TP_0P8MM)
+Added Pin To Net: NetName=I2S_A_DIN Pin=TP327-1
+Added Net: Name=I2S_A_DIN
+Added Pin To Net: NetName=I2S_A_DOUT Pin=TP328-1
+Added Net: Name=I2S_A_DOUT
+Added Pin To Net: NetName=I2S_B_DIN Pin=TP324-1
+Added Net: Name=I2S_B_DIN
+Added Pin To Net: NetName=I2S_B_DOUT Pin=TP325-1
+Added Net: Name=I2S_B_DOUT
+Added Pin To Net: NetName=I2S_BITCLK Pin=TP326-1
+Added Net: Name=I2S_BITCLK
+Added Pin To Net: NetName=I2S_LRCLK Pin=TP323-1
+Added Net: Name=I2S_LRCLK
+Added Pin To Net: NetName=I2S_MCLK Pin=TP322-1
+Added Net: Name=I2S_MCLK
+Added Class: Name=TP322_Nets
+Added Class: Name=TP323_Nets
+Added Class: Name=TP324_Nets
+Added Class: Name=TP325_Nets
+Added Class: Name=TP326_Nets
+Added Class: Name=TP327_Nets
+Added Class: Name=TP328_Nets
+Added Member To Class: ClassName=MCU Member=Component TP322 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP323 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP324 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP325 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP326 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP327 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP328 TP_0P8MM

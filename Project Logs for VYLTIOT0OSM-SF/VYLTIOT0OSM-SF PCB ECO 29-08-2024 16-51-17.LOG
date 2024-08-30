@@ -1,0 +1,10 @@
+Added Component: Designator=TP243(TP_0P8MM)
+Added Component: Designator=TP244(TP_0P8MM)
+Added Pin To Net: NetName=UD4 Pin=TP243-1
+Added Net: Name=UD4
+Added Pin To Net: NetName=UD5 Pin=TP244-1
+Added Net: Name=UD5
+Added Class: Name=TP243_Nets
+Added Class: Name=TP244_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP243 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP244 TP_0P8MM

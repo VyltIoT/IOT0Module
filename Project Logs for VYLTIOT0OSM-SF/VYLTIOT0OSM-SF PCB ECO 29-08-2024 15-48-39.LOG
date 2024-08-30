@@ -1,0 +1,15 @@
+Added Component: Designator=TP165(TP_0P8MM)
+Added Component: Designator=TP166(TP_0P8MM)
+Added Component: Designator=TP167(TP_0P8MM)
+Added Pin To Net: NetName=NC21 Pin=TP165-1
+Added Net: Name=NC21
+Added Pin To Net: NetName=NC22 Pin=TP166-1
+Added Net: Name=NC22
+Added Pin To Net: NetName=NC23 Pin=TP167-1
+Added Net: Name=NC23
+Added Class: Name=TP165_Nets
+Added Class: Name=TP166_Nets
+Added Class: Name=TP167_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP165 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP166 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP167 TP_0P8MM

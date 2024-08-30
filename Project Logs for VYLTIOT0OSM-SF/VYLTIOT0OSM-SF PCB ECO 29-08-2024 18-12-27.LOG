@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IO0 Pin=TP75-1
+Removed Pin From Net: NetName=IO46 Pin=TP77-1
+Removed Member From Class: ClassName=MCU Member=TP75
+Removed Member From Class: ClassName=MCU Member=TP77

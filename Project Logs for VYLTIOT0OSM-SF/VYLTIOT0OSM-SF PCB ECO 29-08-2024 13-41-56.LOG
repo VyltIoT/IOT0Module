@@ -1,0 +1,73 @@
+Added Component: Designator=TP132(TP_0P8MM)
+Added Component: Designator=TP133(TP_0P8MM)
+Added Component: Designator=TP134(TP_0P8MM)
+Added Component: Designator=TP135(TP_0P8MM)
+Added Component: Designator=TP136(TP_0P8MM)
+Added Component: Designator=TP137(TP_0P8MM)
+Added Component: Designator=TP138(TP_0P8MM)
+Added Component: Designator=TP139(TP_0P8MM)
+Added Component: Designator=TP140(TP_0P8MM)
+Added Component: Designator=TP141(TP_0P8MM)
+Added Component: Designator=TP142(TP_0P8MM)
+Added Component: Designator=TP143(TP_0P8MM)
+Added Component: Designator=TP144(TP_0P8MM)
+Added Component: Designator=TP145(TP_0P8MM)
+Added Component: Designator=TP146(TP_0P8MM)
+Added Component: Designator=TP147(TP_0P8MM)
+Added Component: Designator=TP148(TP_0P8MM)
+Added Component: Designator=TP149(TP_0P8MM)
+Added Pin To Net: NetName=NC1 Pin=TP132-1
+Added Net: Name=NC1
+Added Pin To Net: NetName=NC2 Pin=TP133-1
+Added Net: Name=NC2
+Added Pin To Net: NetName=NC3 Pin=TP134-1
+Added Net: Name=NC3
+Added Pin To Net: NetName=NC4 Pin=TP135-1
+Added Net: Name=NC4
+Added Pin To Net: NetName=NC5 Pin=TP136-1
+Added Net: Name=NC5
+Added Pin To Net: NetName=NC6 Pin=TP137-1
+Added Net: Name=NC6
+Added Pin To Net: NetName=NC7 Pin=TP138-1
+Added Net: Name=NC7
+Added Pin To Net: NetName=NC8 Pin=TP139-1
+Added Net: Name=NC8
+Added Pin To Net: NetName=NC9 Pin=TP140-1
+Added Net: Name=NC9
+Added Pin To Net: NetName=NC10 Pin=TP141-1
+Added Net: Name=NC10
+Added Pin To Net: NetName=NC11 Pin=TP142-1
+Added Net: Name=NC11
+Added Pin To Net: NetName=NC12 Pin=TP143-1
+Added Net: Name=NC12
+Added Pin To Net: NetName=NC13 Pin=TP144-1
+Added Net: Name=NC13
+Added Pin To Net: NetName=NC14 Pin=TP145-1
+Added Net: Name=NC14
+Added Pin To Net: NetName=NC15 Pin=TP146-1
+Added Net: Name=NC15
+Added Pin To Net: NetName=NC16 Pin=TP147-1
+Added Net: Name=NC16
+Added Pin To Net: NetName=NC17 Pin=TP148-1
+Added Net: Name=NC17
+Added Pin To Net: NetName=NC18 Pin=TP149-1
+Added Net: Name=NC18
+Added Class: Name=TEST_MECH
+Added Class: Name=TP132_Nets
+Added Class: Name=TP133_Nets
+Added Class: Name=TP134_Nets
+Added Class: Name=TP135_Nets
+Added Class: Name=TP136_Nets
+Added Class: Name=TP137_Nets
+Added Class: Name=TP138_Nets
+Added Class: Name=TP139_Nets
+Added Class: Name=TP140_Nets
+Added Class: Name=TP141_Nets
+Added Class: Name=TP142_Nets
+Added Class: Name=TP143_Nets
+Added Class: Name=TP144_Nets
+Added Class: Name=TP145_Nets
+Added Class: Name=TP146_Nets
+Added Class: Name=TP147_Nets
+Added Class: Name=TP148_Nets
+Added Class: Name=TP149_Nets

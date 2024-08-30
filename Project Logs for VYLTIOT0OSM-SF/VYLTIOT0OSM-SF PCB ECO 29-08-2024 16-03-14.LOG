@@ -1,0 +1,97 @@
+Added Component: Designator=TP182(TP_0P8MM)
+Added Component: Designator=TP183(TP_0P8MM)
+Added Component: Designator=TP184(TP_0P8MM)
+Added Component: Designator=TP185(TP_0P8MM)
+Added Component: Designator=TP186(TP_0P8MM)
+Added Component: Designator=TP187(TP_0P8MM)
+Added Component: Designator=TP188(TP_0P8MM)
+Added Component: Designator=TP189(TP_0P8MM)
+Added Component: Designator=TP190(TP_0P8MM)
+Added Component: Designator=TP191(TP_0P8MM)
+Added Component: Designator=TP192(TP_0P8MM)
+Added Component: Designator=TP193(TP_0P8MM)
+Added Component: Designator=TP194(TP_0P8MM)
+Added Component: Designator=TP195(TP_0P8MM)
+Added Component: Designator=TP196(TP_0P8MM)
+Added Component: Designator=TP197(TP_0P8MM)
+Added Component: Designator=TP198(TP_0P8MM)
+Added Component: Designator=TP199(TP_0P8MM)
+Added Component: Designator=TP200(TP_0P8MM)
+Added Component: Designator=TP201(TP_0P8MM)
+Added Component: Designator=TP202(TP_0P8MM)
+Added Component: Designator=TP203(TP_0P8MM)
+Added Component: Designator=TP204(TP_0P8MM)
+Added Component: Designator=TP205(TP_0P8MM)
+Added Pin To Net: NetName=CSI_CLOCK_N Pin=TP200-1
+Added Net: Name=CSI_CLOCK_N
+Added Pin To Net: NetName=CSI_CLOCK_P Pin=TP198-1
+Added Net: Name=CSI_CLOCK_P
+Added Pin To Net: NetName=CSI_DATA0_N Pin=TP184-1
+Added Net: Name=CSI_DATA0_N
+Added Pin To Net: NetName=CSI_DATA0_P Pin=TP182-1
+Added Net: Name=CSI_DATA0_P
+Added Pin To Net: NetName=CSI_DATA1_N Pin=TP188-1
+Added Net: Name=CSI_DATA1_N
+Added Pin To Net: NetName=CSI_DATA1_P Pin=TP186-1
+Added Net: Name=CSI_DATA1_P
+Added Pin To Net: NetName=CSI_DATA2_N Pin=TP192-1
+Added Net: Name=CSI_DATA2_N
+Added Pin To Net: NetName=CSI_DATA2_P Pin=TP190-1
+Added Net: Name=CSI_DATA2_P
+Added Pin To Net: NetName=CSI_DATA3_N Pin=TP196-1
+Added Net: Name=CSI_DATA3_N
+Added Pin To Net: NetName=CSI_DATA3_P Pin=TP194-1
+Added Net: Name=CSI_DATA3_P
+Added Pin To Net: NetName=CSI_MCK Pin=TP205-1
+Added Net: Name=CSI_MCK
+Added Pin To Net: NetName=CSI_TX_N Pin=TP204-1
+Added Net: Name=CSI_TX_N
+Added Pin To Net: NetName=CSI_TX_P Pin=TP202-1
+Added Net: Name=CSI_TX_P
+Added Pin To Net: NetName=DSI_CLOCK_N Pin=TP201-1
+Added Net: Name=DSI_CLOCK_N
+Added Pin To Net: NetName=DSI_CLOCK_P Pin=TP199-1
+Added Net: Name=DSI_CLOCK_P
+Added Pin To Net: NetName=DSI_DATA0_N Pin=TP185-1
+Added Net: Name=DSI_DATA0_N
+Added Pin To Net: NetName=DSI_DATA0_P Pin=TP183-1
+Added Net: Name=DSI_DATA0_P
+Added Pin To Net: NetName=DSI_DATA1_N Pin=TP189-1
+Added Net: Name=DSI_DATA1_N
+Added Pin To Net: NetName=DSI_DATA1_P Pin=TP187-1
+Added Net: Name=DSI_DATA1_P
+Added Pin To Net: NetName=DSI_DATA2_N Pin=TP193-1
+Added Net: Name=DSI_DATA2_N
+Added Pin To Net: NetName=DSI_DATA2_P Pin=TP191-1
+Added Net: Name=DSI_DATA2_P
+Added Pin To Net: NetName=DSI_DATA3_N Pin=TP197-1
+Added Net: Name=DSI_DATA3_N
+Added Pin To Net: NetName=DSI_DATA3_P Pin=TP195-1
+Added Net: Name=DSI_DATA3_P
+Added Pin To Net: NetName=DSI_TE Pin=TP203-1
+Added Net: Name=DSI_TE
+Added Class: Name=MIPI
+Added Class: Name=TP182_Nets
+Added Class: Name=TP183_Nets
+Added Class: Name=TP184_Nets
+Added Class: Name=TP185_Nets
+Added Class: Name=TP186_Nets
+Added Class: Name=TP187_Nets
+Added Class: Name=TP188_Nets
+Added Class: Name=TP189_Nets
+Added Class: Name=TP190_Nets
+Added Class: Name=TP191_Nets
+Added Class: Name=TP192_Nets
+Added Class: Name=TP193_Nets
+Added Class: Name=TP194_Nets
+Added Class: Name=TP195_Nets
+Added Class: Name=TP196_Nets
+Added Class: Name=TP197_Nets
+Added Class: Name=TP198_Nets
+Added Class: Name=TP199_Nets
+Added Class: Name=TP200_Nets
+Added Class: Name=TP201_Nets
+Added Class: Name=TP202_Nets
+Added Class: Name=TP203_Nets
+Added Class: Name=TP204_Nets
+Added Class: Name=TP205_Nets

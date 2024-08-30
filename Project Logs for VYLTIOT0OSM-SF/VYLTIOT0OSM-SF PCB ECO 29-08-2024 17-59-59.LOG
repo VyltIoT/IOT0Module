@@ -1,0 +1,5 @@
+Added Component: Designator=TP319(TP_0P8MM)
+Added Pin To Net: NetName=DEBUG_EN Pin=TP319-1
+Added Net: Name=DEBUG_EN
+Added Class: Name=TP319_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP319 TP_0P8MM

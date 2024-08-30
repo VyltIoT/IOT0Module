@@ -1,0 +1,25 @@
+Added Component: Designator=TP21(TP_0P8MM)
+Added Component: Designator=TP111(TP_0P8MM)
+Added Component: Designator=TP112(TP_0P8MM)
+Added Component: Designator=TP157(TP_0P8MM)
+Added Component: Designator=TP158(TP_0P8MM)
+Added Pin To Net: NetName=VCC_2_TEST Pin=TP21-1
+Added Net: Name=VCC_2_TEST
+Added Pin To Net: NetName=VCC_3_TEST Pin=TP111-1
+Added Net: Name=VCC_3_TEST
+Added Pin To Net: NetName=VCC_4_TEST Pin=TP112-1
+Added Net: Name=VCC_4_TEST
+Added Pin To Net: NetName=VCC_5_TEST Pin=TP157-1
+Added Net: Name=VCC_5_TEST
+Added Pin To Net: NetName=VCC_6_TEST Pin=TP158-1
+Added Net: Name=VCC_6_TEST
+Added Class: Name=TP21_Nets
+Added Class: Name=TP111_Nets
+Added Class: Name=TP112_Nets
+Added Class: Name=TP157_Nets
+Added Class: Name=TP158_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP21 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP111 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP112 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP157 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP158 TP_0P8MM

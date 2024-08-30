@@ -1,0 +1,30 @@
+Added Component: Designator=TP285(TP_0P8MM)
+Added Component: Designator=TP286(TP_0P8MM)
+Added Component: Designator=TP287(TP_0P8MM)
+Added Component: Designator=TP288(TP_0P8MM)
+Added Component: Designator=TP289(TP_0P8MM)
+Added Component: Designator=TP290(TP_0P8MM)
+Added Pin To Net: NetName=NC40 Pin=TP285-1
+Added Net: Name=NC40
+Added Pin To Net: NetName=NC41 Pin=TP286-1
+Added Net: Name=NC41
+Added Pin To Net: NetName=NC42 Pin=TP287-1
+Added Net: Name=NC42
+Added Pin To Net: NetName=NC43 Pin=TP288-1
+Added Net: Name=NC43
+Added Pin To Net: NetName=NC44 Pin=TP289-1
+Added Net: Name=NC44
+Added Pin To Net: NetName=NC45 Pin=TP290-1
+Added Net: Name=NC45
+Added Class: Name=TP285_Nets
+Added Class: Name=TP286_Nets
+Added Class: Name=TP287_Nets
+Added Class: Name=TP288_Nets
+Added Class: Name=TP289_Nets
+Added Class: Name=TP290_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP285 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP286 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP287 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP288 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP289 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP290 TP_0P8MM

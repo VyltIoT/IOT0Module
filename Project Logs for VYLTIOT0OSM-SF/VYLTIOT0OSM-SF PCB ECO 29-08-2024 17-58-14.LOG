@@ -1,0 +1,10 @@
+Added Component: Designator=TP317(TP_0P8MM)
+Added Component: Designator=TP318(TP_0P8MM)
+Added Pin To Net: NetName=NC72 Pin=TP317-1
+Added Net: Name=NC72
+Added Pin To Net: NetName=NC73 Pin=TP318-1
+Added Net: Name=NC73
+Added Class: Name=TP317_Nets
+Added Class: Name=TP318_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP317 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP318 TP_0P8MM

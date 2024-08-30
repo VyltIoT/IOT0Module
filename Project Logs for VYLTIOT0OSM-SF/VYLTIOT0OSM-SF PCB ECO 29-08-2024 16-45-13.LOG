@@ -1,0 +1,80 @@
+Added Component: Designator=TP225(TP_0P8MM)
+Added Component: Designator=TP226(TP_0P8MM)
+Added Component: Designator=TP227(TP_0P8MM)
+Added Component: Designator=TP228(TP_0P8MM)
+Added Component: Designator=TP229(TP_0P8MM)
+Added Component: Designator=TP230(TP_0P8MM)
+Added Component: Designator=TP231(TP_0P8MM)
+Added Component: Designator=TP232(TP_0P8MM)
+Added Component: Designator=TP233(TP_0P8MM)
+Added Component: Designator=TP234(TP_0P8MM)
+Added Component: Designator=TP235(TP_0P8MM)
+Added Component: Designator=TP236(TP_0P8MM)
+Added Component: Designator=TP237(TP_0P8MM)
+Added Component: Designator=TP238(TP_0P8MM)
+Added Component: Designator=TP239(TP_0P8MM)
+Added Component: Designator=TP240(TP_0P8MM)
+Added Pin To Net: NetName=ETH_B_COL Pin=TP226-1
+Added Net: Name=ETH_B_COL
+Added Pin To Net: NetName=ETH_B_CRS Pin=TP225-1
+Added Net: Name=ETH_B_CRS
+Added Pin To Net: NetName=ETH_B_RXCLK Pin=TP240-1
+Added Net: Name=ETH_B_RXCLK
+Added Pin To Net: NetName=ETH_B_RXD0 Pin=TP232-1
+Added Net: Name=ETH_B_RXD0
+Added Pin To Net: NetName=ETH_B_RXD1 Pin=TP234-1
+Added Net: Name=ETH_B_RXD1
+Added Pin To Net: NetName=ETH_B_RXD2 Pin=TP237-1
+Added Net: Name=ETH_B_RXD2
+Added Pin To Net: NetName=ETH_B_RXD3 Pin=TP239-1
+Added Net: Name=ETH_B_RXD3
+Added Pin To Net: NetName=ETH_B_RXDV Pin=TP236-1
+Added Net: Name=ETH_B_RXDV
+Added Pin To Net: NetName=ETH_B_RXER Pin=TP235-1
+Added Net: Name=ETH_B_RXER
+Added Pin To Net: NetName=ETH_B_SDP Pin=TP238-1
+Added Net: Name=ETH_B_SDP
+Added Pin To Net: NetName=ETH_B_TXCLK Pin=TP231-1
+Added Net: Name=ETH_B_TXCLK
+Added Pin To Net: NetName=ETH_B_TXD0 Pin=TP229-1
+Added Net: Name=ETH_B_TXD0
+Added Pin To Net: NetName=ETH_B_TXD1 Pin=TP227-1
+Added Net: Name=ETH_B_TXD1
+Added Pin To Net: NetName=ETH_B_TXD2 Pin=TP230-1
+Added Net: Name=ETH_B_TXD2
+Added Pin To Net: NetName=ETH_B_TXD3 Pin=TP228-1
+Added Net: Name=ETH_B_TXD3
+Added Pin To Net: NetName=ETH_B_TXER Pin=TP233-1
+Added Net: Name=ETH_B_TXER
+Added Class: Name=TP225_Nets
+Added Class: Name=TP226_Nets
+Added Class: Name=TP227_Nets
+Added Class: Name=TP228_Nets
+Added Class: Name=TP229_Nets
+Added Class: Name=TP230_Nets
+Added Class: Name=TP231_Nets
+Added Class: Name=TP232_Nets
+Added Class: Name=TP233_Nets
+Added Class: Name=TP234_Nets
+Added Class: Name=TP235_Nets
+Added Class: Name=TP236_Nets
+Added Class: Name=TP237_Nets
+Added Class: Name=TP238_Nets
+Added Class: Name=TP239_Nets
+Added Class: Name=TP240_Nets
+Added Member To Class: ClassName=ETHERNET Member=Component TP225 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP226 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP227 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP228 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP229 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP230 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP231 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP232 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP233 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP234 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP235 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP236 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP237 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP238 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP239 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP240 TP_0P8MM

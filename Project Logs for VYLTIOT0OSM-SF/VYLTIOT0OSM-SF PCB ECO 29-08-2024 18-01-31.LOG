@@ -1,0 +1,11 @@
+Added Component: Designator=TP320(TP_0P8MM)
+Added Component: Designator=TP321(TP_0P8MM)
+Added Pin To Net: NetName=CAN_A_N Pin=TP320-1
+Added Net: Name=CAN_A_N
+Added Pin To Net: NetName=CAN_A_P Pin=TP321-1
+Added Net: Name=CAN_A_P
+Added Class: Name=TP320_Nets
+Added Class: Name=TP321_Nets
+Added Differential Pair: Name=CAN_A
+Added Member To Class: ClassName=MCU Member=Component TP320 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP321 TP_0P8MM

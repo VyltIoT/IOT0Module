@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=TP224_Nets Member=ETH_MDC
+Removed Member From Class: ClassName=TP223_Nets Member=ETH_MDIO
+Added Component: Designator=TP241(TP_0P8MM)
+Added Component: Designator=TP242(TP_0P8MM)
+Change Net Name : Old Net Name=ETH_MDC New Net Name=ETH_A_MDC
+Change Net Name : Old Net Name=ETH_MDIO New Net Name=ETH_A_MDIO
+Added Pin To Net: NetName=ETH_B_MDC Pin=TP242-1
+Added Net: Name=ETH_B_MDC
+Added Pin To Net: NetName=ETH_B_MDIO Pin=TP241-1
+Added Net: Name=ETH_B_MDIO
+Added Class: Name=TP241_Nets
+Added Class: Name=TP242_Nets
+Added Member To Class: ClassName=ETHERNET Member=Component TP241 TP_0P8MM
+Added Member To Class: ClassName=ETHERNET Member=Component TP242 TP_0P8MM
+Added Member To Class: ClassName=TP224_Nets Member=Wire ETH_A_MDC
+Added Member To Class: ClassName=TP223_Nets Member=Wire ETH_A_MDIO

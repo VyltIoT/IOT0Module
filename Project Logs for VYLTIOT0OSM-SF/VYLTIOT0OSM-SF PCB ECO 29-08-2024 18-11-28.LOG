@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=POWER Member=TP45
+Removed Member From Class: ClassName=POWER Member=TP48
+Added Member To Class: ClassName=MCU Member=Component TP45 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP48 TP_0P8MM

@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=TP273_Nets Member=PCI_ALERT_N
+Change Net Name : Old Net Name=PCI_ALERT_N New Net Name=PCI_SM_ALERT_N
+Added Member To Class: ClassName=TP273_Nets Member=Wire PCI_SM_ALERT_N

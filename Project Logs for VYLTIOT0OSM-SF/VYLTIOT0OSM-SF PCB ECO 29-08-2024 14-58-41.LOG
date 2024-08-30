@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=TP146_Nets Member=NC15
+Removed Member From Class: ClassName=TP147_Nets Member=NC16
+Change Net Name : Old Net Name=NC14 New Net Name=NC11
+Change Net Name : Old Net Name=NC15 New Net Name=NC12
+Change Net Name : Old Net Name=NC16 New Net Name=NC13
+Change Net Name : Old Net Name=NC17 New Net Name=NC14
+Change Class Name : Old Net Name=TP145_Nets New Net Name=TP148_Nets
+Added Class: Name=TP145_Nets
+Added Member To Class: ClassName=TP146_Nets Member=Wire NC12
+Added Member To Class: ClassName=TP147_Nets Member=Wire NC13

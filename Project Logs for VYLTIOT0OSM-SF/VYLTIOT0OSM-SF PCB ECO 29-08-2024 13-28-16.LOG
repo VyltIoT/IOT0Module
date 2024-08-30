@@ -1,0 +1,73 @@
+Added Component: Designator=TP114(TP_0P8MM)
+Added Component: Designator=TP115(TP_0P8MM)
+Added Component: Designator=TP116(TP_0P8MM)
+Added Component: Designator=TP117(TP_0P8MM)
+Added Component: Designator=TP118(TP_0P8MM)
+Added Component: Designator=TP119(TP_0P8MM)
+Added Component: Designator=TP120(TP_0P8MM)
+Added Component: Designator=TP121(TP_0P8MM)
+Added Component: Designator=TP122(TP_0P8MM)
+Added Component: Designator=TP123(TP_0P8MM)
+Added Component: Designator=TP124(TP_0P8MM)
+Added Component: Designator=TP125(TP_0P8MM)
+Added Component: Designator=TP126(TP_0P8MM)
+Added Component: Designator=TP127(TP_0P8MM)
+Added Component: Designator=TP128(TP_0P8MM)
+Added Component: Designator=TP129(TP_0P8MM)
+Added Component: Designator=TP130(TP_0P8MM)
+Added Component: Designator=TP131(TP_0P8MM)
+Added Pin To Net: NetName=COMM_ARR01 Pin=TP114-1
+Added Net: Name=COMM_ARR01
+Added Pin To Net: NetName=COMM_ARR02 Pin=TP115-1
+Added Net: Name=COMM_ARR02
+Added Pin To Net: NetName=COMM_ARR03 Pin=TP116-1
+Added Net: Name=COMM_ARR03
+Added Pin To Net: NetName=COMM_ARR04 Pin=TP117-1
+Added Net: Name=COMM_ARR04
+Added Pin To Net: NetName=COMM_ARR05 Pin=TP118-1
+Added Net: Name=COMM_ARR05
+Added Pin To Net: NetName=COMM_ARR06 Pin=TP119-1
+Added Net: Name=COMM_ARR06
+Added Pin To Net: NetName=COMM_ARR07 Pin=TP120-1
+Added Net: Name=COMM_ARR07
+Added Pin To Net: NetName=COMM_ARR08 Pin=TP121-1
+Added Net: Name=COMM_ARR08
+Added Pin To Net: NetName=COMM_ARR09 Pin=TP122-1
+Added Net: Name=COMM_ARR09
+Added Pin To Net: NetName=COMM_ARR10 Pin=TP123-1
+Added Net: Name=COMM_ARR10
+Added Pin To Net: NetName=COMM_ARR11 Pin=TP124-1
+Added Net: Name=COMM_ARR11
+Added Pin To Net: NetName=COMM_ARR12 Pin=TP125-1
+Added Net: Name=COMM_ARR12
+Added Pin To Net: NetName=COMM_ARR13\ Pin=TP126-1
+Added Net: Name=COMM_ARR13\
+Added Pin To Net: NetName=COMM_ARR14 Pin=TP127-1
+Added Net: Name=COMM_ARR14
+Added Pin To Net: NetName=COMM_ARR15 Pin=TP128-1
+Added Net: Name=COMM_ARR15
+Added Pin To Net: NetName=COMM_ARR16 Pin=TP129-1
+Added Net: Name=COMM_ARR16
+Added Pin To Net: NetName=COMM_ARR17 Pin=TP130-1
+Added Net: Name=COMM_ARR17
+Added Pin To Net: NetName=COMM_ARR18 Pin=TP131-1
+Added Net: Name=COMM_ARR18
+Added Class: Name=RF
+Added Class: Name=TP114_Nets
+Added Class: Name=TP115_Nets
+Added Class: Name=TP116_Nets
+Added Class: Name=TP117_Nets
+Added Class: Name=TP118_Nets
+Added Class: Name=TP119_Nets
+Added Class: Name=TP120_Nets
+Added Class: Name=TP121_Nets
+Added Class: Name=TP122_Nets
+Added Class: Name=TP123_Nets
+Added Class: Name=TP124_Nets
+Added Class: Name=TP125_Nets
+Added Class: Name=TP126_Nets
+Added Class: Name=TP127_Nets
+Added Class: Name=TP128_Nets
+Added Class: Name=TP129_Nets
+Added Class: Name=TP130_Nets
+Added Class: Name=TP131_Nets

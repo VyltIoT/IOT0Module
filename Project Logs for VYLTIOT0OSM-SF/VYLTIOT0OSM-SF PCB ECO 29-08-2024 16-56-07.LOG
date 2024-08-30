@@ -1,0 +1,15 @@
+Added Component: Designator=TP245(TP_0P8MM)
+Added Component: Designator=TP246(TP_0P8MM)
+Added Component: Designator=TP247(TP_0P8MM)
+Added Pin To Net: NetName=NC37 Pin=TP245-1
+Added Net: Name=NC37
+Added Pin To Net: NetName=NC38 Pin=TP246-1
+Added Net: Name=NC38
+Added Pin To Net: NetName=NC39 Pin=TP247-1
+Added Net: Name=NC39
+Added Class: Name=TP245_Nets
+Added Class: Name=TP246_Nets
+Added Class: Name=TP247_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP245 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP246 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP247 TP_0P8MM

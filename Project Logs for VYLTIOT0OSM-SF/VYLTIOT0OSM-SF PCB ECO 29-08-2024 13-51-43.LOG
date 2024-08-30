@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=R2_Nets Member=NetR2_1
+Removed Member From Class: ClassName=TP79_Nets Member=NetR2_1
+Removed Member From Class: ClassName=R3_Nets Member=NetR3_1
+Removed Member From Class: ClassName=TP81_Nets Member=NetR3_1
+Removed Member From Class: ClassName=R3_Nets Member=U0RXD
+Removed Member From Class: ClassName=R2_Nets Member=U0TXD
+Change Net Name : Old Net Name=NetR2_1 New Net Name=UART_CON_RX
+Change Net Name : Old Net Name=NetR3_1 New Net Name=UART_CON_TX
+Change Net Name : Old Net Name=U0RXD New Net Name=U0TXD
+Change Net Name : Old Net Name=U0TXD New Net Name=U0RXD
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 205, 251)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 205, 251)
+Added Member To Class: ClassName=R2_Nets Member=Wire U0RXD
+Added Member To Class: ClassName=R3_Nets Member=Wire U0TXD
+Added Member To Class: ClassName=R2_Nets Member=Wire UART_CON_RX
+Added Member To Class: ClassName=TP79_Nets Member=Wire UART_CON_RX
+Added Member To Class: ClassName=R3_Nets Member=Wire UART_CON_TX
+Added Member To Class: ClassName=TP81_Nets Member=Wire UART_CON_TX

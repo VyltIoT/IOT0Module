@@ -1,0 +1,30 @@
+Added Component: Designator=TP159(TP_0P8MM)
+Added Component: Designator=TP160(TP_0P8MM)
+Added Component: Designator=TP161(TP_0P8MM)
+Added Component: Designator=TP162(TP_0P8MM)
+Added Component: Designator=TP163(TP_0P8MM)
+Added Component: Designator=TP164(TP_0P8MM)
+Added Pin To Net: NetName=NC15 Pin=TP159-1
+Added Net: Name=NC15
+Added Pin To Net: NetName=NC16 Pin=TP160-1
+Added Net: Name=NC16
+Added Pin To Net: NetName=NC17 Pin=TP161-1
+Added Net: Name=NC17
+Added Pin To Net: NetName=NC18 Pin=TP162-1
+Added Net: Name=NC18
+Added Pin To Net: NetName=NC19 Pin=TP163-1
+Added Net: Name=NC19
+Added Pin To Net: NetName=NC20 Pin=TP164-1
+Added Net: Name=NC20
+Added Class: Name=TP159_Nets
+Added Class: Name=TP160_Nets
+Added Class: Name=TP161_Nets
+Added Class: Name=TP162_Nets
+Added Class: Name=TP163_Nets
+Added Class: Name=TP164_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP159 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP160 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP161 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP162 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP163 TP_0P8MM
+Added Member To Class: ClassName=TEST_MECH Member=Component TP164 TP_0P8MM

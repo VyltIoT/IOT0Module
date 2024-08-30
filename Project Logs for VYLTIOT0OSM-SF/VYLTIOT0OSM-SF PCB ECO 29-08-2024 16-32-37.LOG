@@ -1,0 +1,77 @@
+Added Component: Designator=TP206(TP_0P8MM)
+Added Component: Designator=TP207(TP_0P8MM)
+Added Component: Designator=TP208(TP_0P8MM)
+Added Component: Designator=TP209(TP_0P8MM)
+Added Component: Designator=TP210(TP_0P8MM)
+Added Component: Designator=TP211(TP_0P8MM)
+Added Component: Designator=TP212(TP_0P8MM)
+Added Component: Designator=TP213(TP_0P8MM)
+Added Component: Designator=TP214(TP_0P8MM)
+Added Component: Designator=TP215(TP_0P8MM)
+Added Component: Designator=TP216(TP_0P8MM)
+Added Component: Designator=TP217(TP_0P8MM)
+Added Component: Designator=TP218(TP_0P8MM)
+Added Component: Designator=TP219(TP_0P8MM)
+Added Component: Designator=TP220(TP_0P8MM)
+Added Component: Designator=TP221(TP_0P8MM)
+Added Component: Designator=TP222(TP_0P8MM)
+Added Component: Designator=TP223(TP_0P8MM)
+Added Component: Designator=TP224(TP_0P8MM)
+Added Pin To Net: NetName=ETH_A_CLK Pin=TP212-1
+Added Net: Name=ETH_A_CLK
+Added Pin To Net: NetName=ETH_A_COL Pin=TP207-1
+Added Net: Name=ETH_A_COL
+Added Pin To Net: NetName=ETH_A_CRS Pin=TP206-1
+Added Net: Name=ETH_A_CRS
+Added Pin To Net: NetName=ETH_A_IOPWR Pin=TP218-1
+Added Net: Name=ETH_A_IOPWR
+Added Pin To Net: NetName=ETH_A_RXCLK Pin=TP222-1
+Added Net: Name=ETH_A_RXCLK
+Added Pin To Net: NetName=ETH_A_RXD0 Pin=TP213-1
+Added Net: Name=ETH_A_RXD0
+Added Pin To Net: NetName=ETH_A_RXD1 Pin=TP215-1
+Added Net: Name=ETH_A_RXD1
+Added Pin To Net: NetName=ETH_A_RXD2 Pin=TP219-1
+Added Net: Name=ETH_A_RXD2
+Added Pin To Net: NetName=ETH_A_RXD3 Pin=TP221-1
+Added Net: Name=ETH_A_RXD3
+Added Pin To Net: NetName=ETH_A_RXDV Pin=TP217-1
+Added Net: Name=ETH_A_RXDV
+Added Pin To Net: NetName=ETH_A_RXER Pin=TP216-1
+Added Net: Name=ETH_A_RXER
+Added Pin To Net: NetName=ETH_A_SDP Pin=TP220-1
+Added Net: Name=ETH_A_SDP
+Added Pin To Net: NetName=ETH_A_TXD0 Pin=TP210-1
+Added Net: Name=ETH_A_TXD0
+Added Pin To Net: NetName=ETH_A_TXD1 Pin=TP208-1
+Added Net: Name=ETH_A_TXD1
+Added Pin To Net: NetName=ETH_A_TXD2 Pin=TP211-1
+Added Net: Name=ETH_A_TXD2
+Added Pin To Net: NetName=ETH_A_TXD3 Pin=TP209-1
+Added Net: Name=ETH_A_TXD3
+Added Pin To Net: NetName=ETH_A_TXER Pin=TP214-1
+Added Net: Name=ETH_A_TXER
+Added Pin To Net: NetName=ETH_MDC Pin=TP224-1
+Added Net: Name=ETH_MDC
+Added Pin To Net: NetName=ETH_MDIO Pin=TP223-1
+Added Net: Name=ETH_MDIO
+Added Class: Name=ETHERNET
+Added Class: Name=TP206_Nets
+Added Class: Name=TP207_Nets
+Added Class: Name=TP208_Nets
+Added Class: Name=TP209_Nets
+Added Class: Name=TP210_Nets
+Added Class: Name=TP211_Nets
+Added Class: Name=TP212_Nets
+Added Class: Name=TP213_Nets
+Added Class: Name=TP214_Nets
+Added Class: Name=TP215_Nets
+Added Class: Name=TP216_Nets
+Added Class: Name=TP217_Nets
+Added Class: Name=TP218_Nets
+Added Class: Name=TP219_Nets
+Added Class: Name=TP220_Nets
+Added Class: Name=TP221_Nets
+Added Class: Name=TP222_Nets
+Added Class: Name=TP223_Nets
+Added Class: Name=TP224_Nets

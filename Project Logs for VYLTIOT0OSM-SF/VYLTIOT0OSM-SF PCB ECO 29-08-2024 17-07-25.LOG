@@ -1,0 +1,101 @@
+Added Component: Designator=TP248(TP_0P8MM)
+Added Component: Designator=TP249(TP_0P8MM)
+Added Component: Designator=TP250(TP_0P8MM)
+Added Component: Designator=TP251(TP_0P8MM)
+Added Component: Designator=TP252(TP_0P8MM)
+Added Component: Designator=TP253(TP_0P8MM)
+Added Component: Designator=TP254(TP_0P8MM)
+Added Component: Designator=TP255(TP_0P8MM)
+Added Component: Designator=TP256(TP_0P8MM)
+Added Component: Designator=TP257(TP_0P8MM)
+Added Component: Designator=TP258(TP_0P8MM)
+Added Component: Designator=TP259(TP_0P8MM)
+Added Component: Designator=TP260(TP_0P8MM)
+Added Component: Designator=TP261(TP_0P8MM)
+Added Component: Designator=TP262(TP_0P8MM)
+Added Component: Designator=TP263(TP_0P8MM)
+Added Component: Designator=TP264(TP_0P8MM)
+Added Component: Designator=TP265(TP_0P8MM)
+Added Component: Designator=TP266(TP_0P8MM)
+Added Component: Designator=TP267(TP_0P8MM)
+Added Component: Designator=TP268(TP_0P8MM)
+Added Component: Designator=TP269(TP_0P8MM)
+Added Component: Designator=TP270(TP_0P8MM)
+Added Component: Designator=TP271(TP_0P8MM)
+Added Component: Designator=TP272(TP_0P8MM)
+Added Pin To Net: NetName=RGB_B0 Pin=TP260-1
+Added Net: Name=RGB_B0
+Added Pin To Net: NetName=RGB_B2 Pin=TP258-1
+Added Net: Name=RGB_B2
+Added Pin To Net: NetName=RGB_B3 Pin=TP256-1
+Added Net: Name=RGB_B3
+Added Pin To Net: NetName=RGB_B4 Pin=TP257-1
+Added Net: Name=RGB_B4
+Added Pin To Net: NetName=RGB_B5 Pin=TP254-1
+Added Net: Name=RGB_B5
+Added Pin To Net: NetName=RGB_CLK Pin=TP255-1
+Added Net: Name=RGB_CLK
+Added Pin To Net: NetName=RGB_CSN Pin=TP248-1
+Added Net: Name=RGB_CSN
+Added Pin To Net: NetName=RGB_DE Pin=TP250-1
+Added Net: Name=RGB_DE
+Added Pin To Net: NetName=RGB_DISP Pin=TP252-1
+Added Net: Name=RGB_DISP
+Added Pin To Net: NetName=RGB_G0 Pin=TP266-1
+Added Net: Name=RGB_G0
+Added Pin To Net: NetName=RGB_G1 Pin=TP264-1
+Added Net: Name=RGB_G1
+Added Pin To Net: NetName=RGB_G2 Pin=TP265-1
+Added Net: Name=RGB_G2
+Added Pin To Net: NetName=RGB_G3 Pin=TP263-1
+Added Net: Name=RGB_G3
+Added Pin To Net: NetName=RGB_G4 Pin=TP261-1
+Added Net: Name=RGB_G4
+Added Pin To Net: NetName=RGB_G5 Pin=TP262-1
+Added Net: Name=RGB_G5
+Added Pin To Net: NetName=RGB_HSYNC Pin=TP251-1
+Added Net: Name=RGB_HSYNC
+Added Pin To Net: NetName=RGB_R0 Pin=TP272-1
+Added Net: Name=RGB_R0
+Added Pin To Net: NetName=RGB_R1 Pin=TP271-1
+Added Net: Name=RGB_R1
+Added Pin To Net: NetName=RGB_R2 Pin=TP270-1
+Added Net: Name=RGB_R2
+Added Pin To Net: NetName=RGB_R3 Pin=TP269-1
+Added Net: Name=RGB_R3
+Added Pin To Net: NetName=RGB_R4 Pin=TP268-1
+Added Net: Name=RGB_R4
+Added Pin To Net: NetName=RGB_R5 Pin=TP267-1
+Added Net: Name=RGB_R5
+Added Pin To Net: NetName=RGB_RSTN Pin=TP249-1
+Added Net: Name=RGB_RSTN
+Added Pin To Net: NetName=RGB_VSYNC Pin=TP253-1
+Added Net: Name=RGB_VSYNC
+Added Pin To Net: NetName=TGB_B1 Pin=TP259-1
+Added Net: Name=TGB_B1
+Added Class: Name=DISPLAY
+Added Class: Name=TP248_Nets
+Added Class: Name=TP249_Nets
+Added Class: Name=TP250_Nets
+Added Class: Name=TP251_Nets
+Added Class: Name=TP252_Nets
+Added Class: Name=TP253_Nets
+Added Class: Name=TP254_Nets
+Added Class: Name=TP255_Nets
+Added Class: Name=TP256_Nets
+Added Class: Name=TP257_Nets
+Added Class: Name=TP258_Nets
+Added Class: Name=TP259_Nets
+Added Class: Name=TP260_Nets
+Added Class: Name=TP261_Nets
+Added Class: Name=TP262_Nets
+Added Class: Name=TP263_Nets
+Added Class: Name=TP264_Nets
+Added Class: Name=TP265_Nets
+Added Class: Name=TP266_Nets
+Added Class: Name=TP267_Nets
+Added Class: Name=TP268_Nets
+Added Class: Name=TP269_Nets
+Added Class: Name=TP270_Nets
+Added Class: Name=TP271_Nets
+Added Class: Name=TP272_Nets

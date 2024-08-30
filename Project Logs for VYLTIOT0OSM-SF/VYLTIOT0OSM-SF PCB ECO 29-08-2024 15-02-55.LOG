@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RTC_PWR Pin=TP21-1
+Removed Member From Class: ClassName=POWER Member=TP21
+Removed Member From Class: ClassName=TP143_Nets Member=UD2
+Added Member To Class: ClassName=TP143_Nets Member=Wire UD1

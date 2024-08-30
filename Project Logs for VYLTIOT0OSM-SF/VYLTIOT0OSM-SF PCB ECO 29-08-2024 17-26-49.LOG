@@ -1,0 +1,6 @@
+Added Component: Designator=TP57(TP_0P8MM)
+Added Component: Designator=TP59(TP_0P8MM)
+Added Pin To Net: NetName=GND Pin=TP57-1
+Added Pin To Net: NetName=GND Pin=TP59-1
+Added Member To Class: ClassName=POWER Member=Component TP57 TP_0P8MM
+Added Member To Class: ClassName=POWER Member=Component TP59 TP_0P8MM

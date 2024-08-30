@@ -1,0 +1,40 @@
+Added Component: Designator=TP75(TP_0P8MM)
+Added Component: Designator=TP77(TP_0P8MM)
+Added Component: Designator=TP329(TP_0P8MM)
+Added Component: Designator=TP330(TP_0P8MM)
+Added Component: Designator=TP331(TP_0P8MM)
+Added Component: Designator=TP332(TP_0P8MM)
+Added Component: Designator=TP333(TP_0P8MM)
+Added Component: Designator=TP334(TP_0P8MM)
+Added Pin To Net: NetName=ADC_1 Pin=TP334-1
+Added Net: Name=ADC_1
+Added Pin To Net: NetName=PWM_0 Pin=TP75-1
+Added Net: Name=PWM_0
+Added Pin To Net: NetName=PWM_1 Pin=TP77-1
+Added Net: Name=PWM_1
+Added Pin To Net: NetName=PWM_2 Pin=TP329-1
+Added Net: Name=PWM_2
+Added Pin To Net: NetName=PWM_3 Pin=TP330-1
+Added Net: Name=PWM_3
+Added Pin To Net: NetName=PWM_4 Pin=TP331-1
+Added Net: Name=PWM_4
+Added Pin To Net: NetName=PWM_5 Pin=TP332-1
+Added Net: Name=PWM_5
+Added Pin To Net: NetName=PWM_6 Pin=TP333-1
+Added Net: Name=PWM_6
+Added Class: Name=TP75_Nets
+Added Class: Name=TP77_Nets
+Added Class: Name=TP329_Nets
+Added Class: Name=TP330_Nets
+Added Class: Name=TP331_Nets
+Added Class: Name=TP332_Nets
+Added Class: Name=TP333_Nets
+Added Class: Name=TP334_Nets
+Added Member To Class: ClassName=MCU Member=Component TP75 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP77 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP329 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP330 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP331 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP332 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP333 TP_0P8MM
+Added Member To Class: ClassName=MCU Member=Component TP334 TP_0P8MM

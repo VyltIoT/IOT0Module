@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=TP148_Nets Member=NC11
+Added Component: Designator=TP156(TP_0P8MM)
+Change Net Name : Old Net Name=UD0 New Net Name=UD1
+Change Net Name : Old Net Name=UD1 New Net Name=UD2
+Added Pin To Net: NetName=UD3 Pin=TP156-1
+Added Net: Name=UD3
+Change Class Name : Old Net Name=TP144_Nets New Net Name=TP143_Nets
+Added Class: Name=TP144_Nets
+Added Class: Name=TP156_Nets
+Added Member To Class: ClassName=TEST_MECH Member=Component TP156 TP_0P8MM
+Added Member To Class: ClassName=TP148_Nets Member=Wire NC14

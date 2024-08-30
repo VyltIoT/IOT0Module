@@ -1,0 +1,47 @@
+Added Component: Designator=TP273(TP_0P8MM)
+Added Component: Designator=TP274(TP_0P8MM)
+Added Component: Designator=TP275(TP_0P8MM)
+Added Component: Designator=TP276(TP_0P8MM)
+Added Component: Designator=TP277(TP_0P8MM)
+Added Component: Designator=TP278(TP_0P8MM)
+Added Component: Designator=TP279(TP_0P8MM)
+Added Component: Designator=TP280(TP_0P8MM)
+Added Component: Designator=TP281(TP_0P8MM)
+Added Component: Designator=TP282(TP_0P8MM)
+Added Component: Designator=TP283(TP_0P8MM)
+Added Component: Designator=TP284(TP_0P8MM)
+Added Pin To Net: NetName=PCI_A_HSI0_N Pin=TP282-1
+Added Pin To Net: NetName=PCI_A_HSI0_N Pin=TP284-1
+Added Net: Name=PCI_A_HSI0_N
+Added Pin To Net: NetName=PCI_A_HSI0_P Pin=TP281-1
+Added Pin To Net: NetName=PCI_A_HSI0_P Pin=TP283-1
+Added Net: Name=PCI_A_HSI0_P
+Added Pin To Net: NetName=PCI_A_PERST_N Pin=TP277-1
+Added Net: Name=PCI_A_PERST_N
+Added Pin To Net: NetName=PCI_ALERT_N Pin=TP273-1
+Added Net: Name=PCI_ALERT_N
+Added Pin To Net: NetName=PCI_CLKREQ_N Pin=TP280-1
+Added Net: Name=PCI_CLKREQ_N
+Added Pin To Net: NetName=PCI_REFCLK_N Pin=TP279-1
+Added Net: Name=PCI_REFCLK_N
+Added Pin To Net: NetName=PCI_REFCLK_P Pin=TP278-1
+Added Net: Name=PCI_REFCLK_P
+Added Pin To Net: NetName=PCI_SMCLK Pin=TP274-1
+Added Net: Name=PCI_SMCLK
+Added Pin To Net: NetName=PCI_SMDAT Pin=TP276-1
+Added Net: Name=PCI_SMDAT
+Added Pin To Net: NetName=PCI_WAKE Pin=TP275-1
+Added Net: Name=PCI_WAKE
+Added Class: Name=PCIE
+Added Class: Name=TP273_Nets
+Added Class: Name=TP274_Nets
+Added Class: Name=TP275_Nets
+Added Class: Name=TP276_Nets
+Added Class: Name=TP277_Nets
+Added Class: Name=TP278_Nets
+Added Class: Name=TP279_Nets
+Added Class: Name=TP280_Nets
+Added Class: Name=TP281_Nets
+Added Class: Name=TP282_Nets
+Added Class: Name=TP283_Nets
+Added Class: Name=TP284_Nets

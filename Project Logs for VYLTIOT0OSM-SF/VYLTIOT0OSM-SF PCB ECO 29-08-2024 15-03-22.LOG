@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RTC_PWR Pin=TP111-1
+Removed Pin From Net: NetName=RTC_PWR Pin=TP112-1
+Removed Member From Class: ClassName=MCU Member=TP111
+Removed Member From Class: ClassName=MCU Member=TP112
